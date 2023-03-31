@@ -4,6 +4,11 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.*;
 
+// To build this program, you will need to add the following dependencies to your project:
+
+// Apache POI: A Java library for reading and writing Microsoft Office file formats, including Excel spreadsheets.
+// Apache POI-OOXML: A Java library for working with Office Open XML documents, which includes Excel spreadsheets.
+
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.*;
 
